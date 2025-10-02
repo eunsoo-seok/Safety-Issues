@@ -1,4 +1,4 @@
-## Workplace Safety Incident Prediction
+## Workplace Accident Prediction
 ### 📌 Project Overview
 
 This project analyzes unsafe acts, incidents, and worker-related safety issues to predict total incidents and injuries in the workplace.
